@@ -1,7 +1,7 @@
 ConfigBM = {}
 ConfigBM.Perquisition = true --- mettre true si vous voulez activer la possibilité de perquisitionner de clyde sinon mettre false
 
-ConfigBM.ESXCALIF = true --- Mettre true si vous êtes sur une version CALIF de ESX , sinon mettre false
+ConfigBM.ESXCALIF = false --- Mettre true si vous êtes sur une version CALIF de ESX , sinon mettre false
 
 ConfigBM.Blackmoneypay = true --- mettre true si vous voulez que les joueurs puissent paye avec de l'argent sale
 
