@@ -15,7 +15,7 @@ ConfigBM.CleanMoneyPayLaundering = true --- Set to true if you want to enable mo
 
 ConfigBM.ConversionRate = 30 --- The conversion rate percentage for money laundering
 
-ConfigBM.Locale = 'en' --- 
+ConfigBM.Locale = 'en' --- Set the language to 'en' for English. Other available languages are: 'fr', 'es', 'pt', 'ru', 'it'
 
 ConfigBM.Marker = {
     {
