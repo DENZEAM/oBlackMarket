@@ -1,20 +1,25 @@
-# dBlackMarket
-## Preview : https://www.youtube.com/watch?v=SfmfCuBG6bs&t=5s
+# oBlackMarket
 
- - Script en Rage UI V2
- 
- - Script Full Configurable
- 
- - Script sous ESX
- 
- - Script possédant des logs
- 
- - Système d'achat d'objet a un pnj
- 
- - Système de perquisition
- 
- - Système de blanchiment intégrer
- 
- - Possibilité de voir combien on recevrait après blanchiment ainsi que le taux de blanchiment
- 
- - Script Compatible ESX CALIF / ESX
+## Preview: [YouTube Preview](https://www.youtube.com/watch?v=SfmfCuBG6bs&t=5s)
+
+- Script in Rage UI V2
+- Fully configurable script
+- Works with ESX
+- Includes logging
+- Item purchase system with an NPC
+- Police raid system
+- Integrated money laundering system
+- Ability to see the amount received after laundering and the laundering rate
+- Compatible with ESX CALIF / ESX
+
+## Available Languages
+
+This script is available in:
+
+- 🇫🇷 French (FR)
+- 🇬🇧 English (EN)
+- 🇩🇪 German (DE)
+- 🇪🇸 Spanish (ES)
+- 🇵🇹 Portuguese (PT)
+- 🇮🇹 Italian (IT)
+- 🇷🇺 Russian (RU)

@@ -1,0 +1,15 @@
+Locales['es'] = {
+  ["clyde_market"] = "Mercado de Clyde",
+  ['nothing_to_see'] = '¿Qué quieres hombre? Aquí no hay nada que ver',
+  ['object_for_sale'] = 'Objeto en venta',
+  ['money_laundering'] = 'Lavado de dinero',
+  ['conversion_rate'] = '[Tasa de conversión]',
+  ['conversion_result'] = 'Recibirás',
+  ['press_to_access'] = 'Presiona ~INPUT_CONTEXT~ para acceder al mercado de Clyde.',
+  ['not_enough_space'] = '~r~No tienes suficiente espacio~s~',
+  ['not_enough_money'] = '~r~No tienes suficiente dinero~s~',
+  ['bought_item'] = 'Compraste un(a) ~b~%s',
+  ['money_laundering'] = 'Lava tu dinero',
+  ['perquisition'] = 'Has ~r~Allanado~s~ ~b~Clyde',
+  ['perquisition?'] = '¿Te gustaría ~r~Allanar~s~ ~b~Clyde?',
+}
