@@ -1,6 +1,6 @@
 # oBlackMarket
 
-## Preview: [YouTube Preview](https://www.youtube.com/watch?v=SfmfCuBG6bs&t=5s)
+## Preview: [YouTube Preview](https://www.youtube.com/watch?v=dqjatr64t5Q)
 
 - Script in Rage UI V2
 - Fully configurable script
