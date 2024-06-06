@@ -2,6 +2,16 @@
 
 ## Preview: [YouTube Preview](https://www.youtube.com/watch?v=SfmfCuBG6bs&t=5s)
 
+## Download
+
+[Download](https://github.com/DENZEAM/oBlackMarket/releases/tag/fivem)
+
+## Discord
+
+[Join our Discord](https://discord.com/invite/onedev)
+
+##
+
 - Script in Rage UI V2
 - Fully configurable script
 - Works with ESX
